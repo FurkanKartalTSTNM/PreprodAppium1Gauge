@@ -132,3 +132,12 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 * Sepete git'e tıklanır
 * Sepet kasa arkasi popup'i kapatilir
 * Sepet kontrol edilerek temizlenir
+
+
+
+
+Just Wait
+------
+tags:IOS_JustWait
+* Uygulama baslatilir
+* Wait "2" seconds
