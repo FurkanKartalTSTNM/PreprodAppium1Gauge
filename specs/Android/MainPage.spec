@@ -134,3 +134,9 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * Yeni Sepete Ekle butonu ile Gratis4 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
+
+
+Android Wait 2 Seconds
+----------------------
+tags:Gratis_Android_Wait2Seconds
+* Wait "2" seconds
