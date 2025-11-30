@@ -139,5 +139,4 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 Just Wait
 ------
 tags:IOS_JustWait
-* Uygulama baslatilir
 * Wait "2" seconds
